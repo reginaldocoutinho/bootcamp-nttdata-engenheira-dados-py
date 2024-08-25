@@ -10,4 +10,8 @@ print("String: " + str("Exemplo de Texto"))
 int()
 
 #No terminal se digitado python consigo fazer os prints acima de forma interativa
+#Ou se utilizar o python -i nome_arquivo.py executo o arquivo especificado
+#Utilizando o dir para ver o que consta dentro da pasta
+dir()
+
 
